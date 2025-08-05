@@ -13,3 +13,8 @@ while True:
 #draw all other elements
     
     pygame.display.update()
+# This is a comment
+# This is another comment
+# This is a third comment
+# This is a fourth comment
+# This is a fifth comment
